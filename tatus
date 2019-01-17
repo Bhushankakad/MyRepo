@@ -1,0 +1,23 @@
+[33mcommit b19db88cbbac5e3e6c52a098687306e417a29c04[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mgithubTesting/master[m[33m)[m
+Author: Bhushan Kakad <bhushan.kakad@atmecs.com>
+Date:   Thu Jan 17 13:24:56 2019 +0530
+
+    Adds .gitignore file
+
+[33mcommit acd453ff78a0948f3cd846d0b011019d34fd8b64[m
+Author: Bhushan Kakad <bhushan.kakad@atmecs.com>
+Date:   Thu Jan 17 13:14:45 2019 +0530
+
+    more changes now correct
+
+[33mcommit a18aabbd70fa432a51e5d09af9f49386bab71da7[m
+Author: Bhushan Kakad <bhushan.kakad@atmecs.com>
+Date:   Thu Jan 17 12:48:59 2019 +0530
+
+     commit message for your changes. Lines starting
+
+[33mcommit 7a3f6b710495dbd0150c5f9a1fc6d332d010d901[m
+Author: Bhushan Kakad <bhushan.kakad@atmecs.com>
+Date:   Thu Jan 17 12:35:13 2019 +0530
+
+    Commiting test01
